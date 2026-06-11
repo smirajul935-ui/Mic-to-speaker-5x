@@ -52,5 +52,11 @@
         "key": "day01",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "ac5774d44304c2c1",
+        "key": "200",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
