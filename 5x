@@ -40,5 +40,11 @@
         "key": "real",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "d3c6ce6d085fcd7a",
+        "key": "day1",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
