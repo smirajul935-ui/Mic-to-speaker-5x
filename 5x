@@ -52,5 +52,11 @@
         "key": "👑fd",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "0f9645b8ff0f3241",
+        "key": "Mantri",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
