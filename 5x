@@ -58,5 +58,11 @@
         "key": "Mantri",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "aa6d2d74d0343afe",
+        "key": "77",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
