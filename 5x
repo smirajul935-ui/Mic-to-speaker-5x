@@ -70,5 +70,11 @@
         "key": "222",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "29176d73cda78812",
+        "key": "1day",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
